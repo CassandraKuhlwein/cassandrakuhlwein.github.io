@@ -5,3 +5,26 @@ html {
   -o-background-size: cover;
   background-size: cover;
 }
+
+.fa-heart {
+  color: #dd3970;
+}
+
+.navbar {
+  background-color: rgba(255,255,255,0.9) !important;
+}
+
+.navbar .navbar-brand {
+  color: #dd3970 !important;
+}
+
+#tagline {
+  color: #fff;
+  right: 10%;
+  bottom: 10%;
+  position: fixed;
+  margin-right: 20px;
+  padding: 20px;
+  border: 2px solid #fff;
+  text-shadow: 2px 2px #dd3970;
+}
