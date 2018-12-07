@@ -20,6 +20,7 @@ html {
 
 #tagline {
   color: #fff;
+  letter-spacing: 0.5px;
   right: 10%;
   bottom: 10%;
   position: fixed;
