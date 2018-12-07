@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 html {
   background: url('https://www.dropbox.com/s/wgg4li7r5j6qzjv/background.jpg?raw=1') no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -6,12 +8,17 @@ html {
   background-size: cover;
 }
 
+body {
+  font-family: Open Sans, sans-serif !important;
+}
+
 .fa-heart {
   color: #dd3970;
 }
 
 .navbar {
   background-color: rgba(255,255,255,0.9) !important;
+  height: 15px !important;
 }
 
 .navbar .navbar-brand {
