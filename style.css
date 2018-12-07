@@ -2,5 +2,5 @@ body {
   background-image: url('https://www.dropbox.com/s/wgg4li7r5j6qzjv/background.jpg?raw=1');
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
 }
